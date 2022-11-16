@@ -1,7 +1,7 @@
 import java.text.DecimalFormat;
 import static java.lang.System.*;
 
-public class separator {
+public class CurrencyConverter {
 
     public static void main(String[] args) {
 
