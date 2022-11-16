@@ -28,9 +28,6 @@ out8="$(java CurrencyConverter $in7 $in4)"
 out9="$(java CurrencyConverter $in7 $in5)"
 out10="$(java CurrencyConverter $in7 $in6)"
 
-echo "$ex1"
-echo "$out1"
-
 # Testing the convertor with normal values and correct format of the arguments
 
 if [ "$ex1" = "$out1" ];
@@ -142,5 +139,3 @@ else
 fi
 
 echo Testing Ended Successfully
-
-
