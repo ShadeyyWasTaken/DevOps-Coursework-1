@@ -14,7 +14,7 @@ ex3="Please use one of the following currencies in plural form: dollars, pounds,
 ex4=$'50.0 Pounds = 68 Dollars\n50.0 Pounds = 59.5 Euros\nThank you for using the converter.'
 ex5=$'50.0 Euros = 56.5 Dollars\n50.0 Euros = 42 Pounds\nThank you for using the converter.'
 ex6=$'10.0 Dollars = 7.4 Pounds\n10.0 Dollars = 8.8 Euros\nThank you for using the converter.'
-ex7=$'11.0 Pounds = 13.6 Dollars\n10.0 Pounds = 11.9 Euros\nThank you for using the converter.'
+ex7=$'10.0 Pounds = 13.6 Dollars\n10.0 Pounds = 11.9 Euros\nThank you for using the converter.'
 ex8=$'10.0 Euros = 11.3 Dollars\n10.0 Euros = 8.4 Pounds\nThank you for using the converter.'
 
 out1="$(java CurrencyConverter $in1 $in2)"
