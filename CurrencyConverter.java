@@ -58,6 +58,3 @@ public class CurrencyConverter {
         out.println("Thank you for using the converter.");
     }
 }
-
-//Test Automation GitHub Push
-//Update Code Test
